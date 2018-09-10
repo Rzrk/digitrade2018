@@ -1,2 +1,2 @@
 # digitrade2018
-koulutyöt
+Matias Pyyhtiä
